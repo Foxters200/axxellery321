@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Tachiyomi: ManhwaLand",
+    "pkg": "eu.kanade.tachiyomi.extension.en.manhwaland",
+    "apk": "tachiyomi-en.manhwaland-v1.0.0.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.0.0",
+    "sources": [
+      {
+        "name": "ManhwaLand",
+        "lang": "en",
+        "id": "8123456789012345678",
+        "baseUrl": "https://www.manhwaland.baby",
+        "versionId": 1
+      }
+    ]
+  }
+]
